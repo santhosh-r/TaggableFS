@@ -1,0 +1,8 @@
+<map id="src/TFSManager.hpp" name="src/TFSManager.hpp">
+<area shape="rect" id="node1" title="The header file for the TFSManager class." alt="" coords="178,5,322,32"/>
+<area shape="rect" id="node2" href="$QueryHandler_8hpp.html" title="The header file for the QueryHandler class." alt="" coords="89,80,240,107"/>
+<area shape="rect" id="node6" href="$TFSManager_8cpp.html" title="The source file for the TFSManager class." alt="" coords="265,80,409,107"/>
+<area shape="rect" id="node3" href="$QueryHandler_8cpp.html" title="The source file for the QueryHandler class." alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node4" href="$TaggableFS_8hpp.html" title="The default header file for TaggableFS." alt="" coords="181,155,319,181"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="The entry point for TaggableFS." alt="" coords="201,229,299,256"/>
+</map>
