@@ -11,6 +11,12 @@ For documentation, see https://santhosh-r.github.io/TaggableFS/
       bash run_tfs.sh [--tag-view] [--log]
       /tfs.out COMMAND
 
+## Screenshots
+
+![Default mode](images/default.png?raw=true)
+
+![Tag view mode](images/tag_view.png?raw=true)
+
 ## Commands:
       --help
             display help.
